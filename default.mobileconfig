@@ -12,13 +12,13 @@
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>WPA2 PSK</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
-			<key>Albert0325Lyj</key>
-			<string>123456</string>
+			<key>Password</key>
+			<string>Albert0325Lyj</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
